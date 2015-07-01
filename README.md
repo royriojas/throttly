@@ -4,6 +4,23 @@
 # throttly
 Yet another throttle implementation with 0 dependencies
 
+## Usage
+```javascript
+var throttly = require('throttly');
+```
+
+### signature
+`throttly(fnToThrottle: Function, threshold:Number, [ctx:Object], [immediate:Boolean]):Function`
+
+- **fnToThrottle**: Function
+  The function to throttle
+- **threshold**: Number
+  The number of milliseconds for the throttle rate
+- **ctx**: Object
+  The this object inside the throttled function. If none specified will try to use the ctx of the invocator.
+- **immediate**: Boolean
+  If true, the function will be executed on the leading edge
+
 ## Install
 
 ```bash
