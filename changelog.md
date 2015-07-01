@@ -1,5 +1,10 @@
 
 # throttly - Changelog
+## v1.0.3
+- **Documentation**
+  - Fix typo in Readme - [6d2cd0b]( https://github.com/royriojas/throttly/commit/6d2cd0b ), [royriojas](https://github.com/royriojas), 01/07/2015 04:09:05
+
+    
 ## v1.0.2
 - **Documentation**
   - Better readme - [6b816aa]( https://github.com/royriojas/throttly/commit/6b816aa ), [royriojas](https://github.com/royriojas), 01/07/2015 04:07:17
