@@ -1,6 +1,6 @@
 {
   "name": "throttly",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Yet another throttle implementation with 0 deps",
   "main": "index.js",
   "scripts": {
