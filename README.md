@@ -10,7 +10,9 @@ var throttly = require('throttly');
 ```
 
 ### signature
-`throttly(fnToThrottle: Function, threshold:Number, [ctx:Object], [immediate:Boolean]):Function`
+```javascript
+function throttly(fnToThrottle: Function, threshold:Number, [ctx:Object], [immediate:Boolean]):Function
+```
 
 - **fnToThrottle**: Function
   The function to throttle
