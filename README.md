@@ -27,7 +27,7 @@ var throttly = require('throttly');
 npm i --save throttly
 ```
 
-## Usage
+## Example
 
 ```javascript
 var throttly = require('throttly');
